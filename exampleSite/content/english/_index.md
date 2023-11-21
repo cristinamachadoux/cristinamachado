@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "Hi!👋🏼 I’m <br> Cristina Machado <br> UX designer"
 
 # about
 about:
