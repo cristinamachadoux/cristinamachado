@@ -101,7 +101,7 @@ mastodon = "" # Your verification code
 
 # google map
 [google_map]
-enable = true
+enable = false
 embed_url = "https://www.google.com/maps/embed/v1/place?q=Washington+D.C.,+DC,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
 
 # cookies
