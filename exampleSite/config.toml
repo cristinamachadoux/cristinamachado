@@ -39,7 +39,7 @@ font_icon = "themify" # https://themify.me/themify-icons
 font_primary = "Work+Sans:wght@400" 
 font_primary_type = "sans-serif" # [serif/sans-serif]
 font_secondary = "Work+Sans:wght@700" 
-font_secondary_type = "serif" # [serif/sans-serif]
+font_secondary_type = "sans-serif" # [serif/sans-serif]
 
 ############################# Plugins ##############################
 
