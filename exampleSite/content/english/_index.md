@@ -14,7 +14,7 @@ about:
 
 # skill
 skill:
-  enable : true
+  enable : false
   title : "Skills"
   item:
     - title : "Web Design"
@@ -35,7 +35,7 @@ skill:
 
 # experience
 experience:
-  enable : true
+  enable : false
   title : "Experience"
   item: 
     - logo : "images/experience/icon-1.png"
@@ -76,7 +76,7 @@ education:
 
 # service
 service:
-  enable : true
+  enable : false
   title : "Services"
   item:
     - title : "UI Design"
@@ -103,7 +103,7 @@ portfolio:
 
 # testimonial
 testimonial:
-  enable : true
+  enable : false
   title : "Testimonials"
   item:
     - name : "Jesica Gomez"
@@ -123,7 +123,7 @@ testimonial:
 
 # client logo slider
 clients_logo_slider:
-  enable : true
+  enable : false
   item:
     - logo : "images/clients-logo/client-logo-1.png"
       URL : "http://examplesite.com"
@@ -157,7 +157,7 @@ clients_logo_slider:
 
 # blog
 blog:
-  enable : true
+  enable : false
   title : "Blogs"
   # blog post comes from "content/blog" folder
 ---
