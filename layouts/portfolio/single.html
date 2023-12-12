@@ -20,13 +20,12 @@
               </div>
             </div>
           </div>
-          {{ with .Params.Client}}
           <div class="col-sm-6 mb-5">
             <div class="project-meta">
-              <i class="ti-user"></i>
+              <i class="ti-folder"></i>
               <div class="ms-3">
-                <h4>Client</h4>
-                <p>{{. | markdownify}}</p>
+                <h4>Categories</h4>
+                <p>{{ delimit .Params.categories ", " | humanize }}</p>
               </div>
             </div>
           </div>
