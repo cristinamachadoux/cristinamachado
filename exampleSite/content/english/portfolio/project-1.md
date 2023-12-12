@@ -1,5 +1,5 @@
 ---
-title: "Pixelware"
+title: "Tender Submission Process"
 date: 2023-12-01T00:00:00+01:00
 image: "images/portfolio/item-1.png"
 client: "John Doe"
