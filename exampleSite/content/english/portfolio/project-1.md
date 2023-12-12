@@ -4,6 +4,7 @@ date: 2023-12-01T00:00:00+01:00
 image: "images/portfolio/item-1.png"
 client: "John Doe"
 project_url : "https://shorturl.at/mvKSU"
+project_prototype : "hhttps://shorturl.at/cnEOZ"
 categories: ["Web Design"]
 description: "This is meta description."
 draft: false
