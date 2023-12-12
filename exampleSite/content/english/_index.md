@@ -6,7 +6,7 @@ banner:
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "With a background in bookclub leadership, public tenders, project coordination and purchasing manager, I've honed skills in organization, responsibility, and versatility, transitioning seamlessly into my true passion: UX/UI Design."
   button:
     enable : true
     label : "know more"
@@ -58,21 +58,15 @@ education:
   enable : true
   title : "Education"
   item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
+    - title : "Google UX Design Certificate"
+      year : "2023"
+      academy : "Coursera - 209h"
       
-    - title : "Honours in Fine Arts"
-      year : "2004"
-      academy : "Harvard University"
+    - title : "Diseño UX: experiencia de usuario UX/UI + Figma 2023"
+      year : "2023"
+      academy : "Udemy - 22,5h"
       
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
-      
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
+
 
 # service
 service:

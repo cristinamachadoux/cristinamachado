@@ -1,19 +1,18 @@
 ---
-title: "Majestic Movies"
-date: 2019-05-12T12:14:34+06:00
+title: "Pixelware"
+date: 2023-12-01T00:00:00+01:00
 image: "images/portfolio/item-1.png"
 client: "John Doe"
-project_url : "https://www.behance.net/gallery/184758855/Ticketing-cinema-app"
-categories: ["design","development"]
+project_url : "https://shorturl.at/mvKSU"
+categories: ["Web Design"]
 description: "This is meta description."
 draft: false
 ---
 
-#### Project Requirements
+#### About the project
 
-PenpalCircle, a well-established platform with a substantial user base, is undergoing a redesign to enhance user experience and modernize its interface. The current website, outdated in design, requires a comprehensive overhaul to stay competitive in the online penpal community.
-
-
-#### Project Details
-
-PenpalCircle undergoes a complete redesign, showcasing a user-friendly interface with modern design principles. Advanced search features, encompassing personalized filters and the option to save preferences, also, there are introduced filters to cater to language learners, snail mail enthusiasts, e-pal seekers, and travel companions. The goal is the creation of a visually appealing and functionally robust platform, aimed at attracting and retaining users through a personalized penpal matching experience.
+This project is a fictional case study, representing a personal initiative.
+With hands-on experience as a regular user, I bring a comprehensive understanding of these platforms and the process.
+Platform Selection - Pixelware: Targeting Pixelware, a platform serving entities across Spain, as the focus for improvement.
+Despite a well-functioning website, the tender submission process relies on an outdated downloadable program, urging the need for modernization.
+With an outdated submission program, modernization is essential to align with the trend of reduced reliance on physical tenders, guaranteeing an improved experience for all participating companies.

@@ -49,8 +49,11 @@ clients_logo_slider:
   # clients logo comes from 'params.toml' file
 ---
 
-Lorem ipsum Arnau sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo Cristinas.
+Hello! I'm Cristina Machado from Barcelona,
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+A book enthusiast who has explored the literary world through a book-themed Instagram that reached 10k followers, collaborating with publishers, and leading a book club for a year. Traveling is one of my passions and I enjoy everything around it, such as organizing trips, creating detailed maps, and keeping journals that capture the best moments of my adventures. Additionally, I enjoy immortalizing memories through photographs, attending concerts, and being surrounded by cats, among other things. These interests led me to my true passion: UX/UI Design. 
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+My background, including experience in public tenders at a construction company and as a Project Coordinator/Purchasing Manager in a start-up, has shaped me into a methodical, organized, responsible, and versatile individual. Meetings with suppliers, market research, preparation of essential documents, and managing Mailchimp communications to clients are just a few of the responsibilities that have expanded my skill set.
+
+I am always excited about personal and professional growth and learning.
+s
