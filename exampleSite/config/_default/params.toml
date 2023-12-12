@@ -39,8 +39,8 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 # contact info
 [contact_info]
 address = "9567 Turner Trace Apt. BC C3G8A4"
-email = "info@email.com"
-mobile = "+211234565523"
+email = "https://www.linkedin.com/in/cristinamcml"
+mobile = "https://www.behance.net/cristinamachadoux"
 
 # Crisp Chat
 [crisp_chat]
