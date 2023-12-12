@@ -29,7 +29,7 @@ author = "Cristina Machado"
 
 # copyright
 copyright = "Copyright by your company"
-theme_copyright = true
+theme_copyright = false
 
 # Preloader
 [preloader]
