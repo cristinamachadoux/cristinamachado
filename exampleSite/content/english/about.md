@@ -56,4 +56,3 @@ A book enthusiast who has explored the literary world through a book-themed Inst
 My background, including experience in public tenders at a construction company and as a Project Coordinator/Purchasing Manager in a start-up, has shaped me into a methodical, organized, responsible, and versatile individual. Meetings with suppliers, market research, preparation of essential documents, and managing Mailchimp communications to clients are just a few of the responsibilities that have expanded my skill set.
 
 I am always excited about personal and professional growth and learning.
-s
