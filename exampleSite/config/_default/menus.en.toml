@@ -10,8 +10,3 @@ weight = 1
 URL = "portfolio/"
 name = "Portfolio"
 weight = 3
-
-[[main]]
-URL = "contact/"
-name = "Contact"
-weight = 4
