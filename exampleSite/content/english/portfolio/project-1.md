@@ -9,7 +9,7 @@ description: "This is meta description."
 draft: false
 ---
 
-#### Project Requirements
+#### Project Requirementsas
 
 This project is a fictional case study, representing a personal initiative.
 With hands-on experience as a regular user, I bring a comprehensive understanding of these platforms and the process.
