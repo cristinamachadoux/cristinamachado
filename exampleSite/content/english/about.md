@@ -51,8 +51,8 @@ clients_logo_slider:
 
 Hello! I'm Cristina Machado from Barcelona,
 
-A book enthusiast who has explored the literary world through a book-themed Instagram that reached 10k followers, collaborating with publishers, and leading a book club for a year. Traveling is one of my passions and I enjoy everything around it, such as organizing trips, creating detailed maps, and keeping journals that capture the best moments of my adventures. Additionally, I enjoy immortalizing memories through photographs, attending concerts, and being surrounded by cats, among other things. These interests led me to my true passion: UX/UI Design. 
+A <b>book enthusiast</b> who has explored the literary world through a book-themed Instagram that reached 10k followers, <b>collaborating with publishers</b>, and <b>leading a book club</b> for a year. <b>Traveling is one of my passions</b> and I enjoy everything around it, such as organizing trips, creating detailed maps, and keeping journals that capture the best moments of my adventures. Additionally, I enjoy immortalizing memories through photographs, attending concerts, and being surrounded by cats, among other things. These interests led me to <b>my true passion: UX/UI Design</b>. 
 
-My background, including experience in public tenders at a construction company and as a Project Coordinator/Purchasing Manager in a start-up, has shaped me into a methodical, organized, responsible, and versatile individual. Meetings with suppliers, market research, preparation of essential documents, and managing Mailchimp communications to clients are just a few of the responsibilities that have expanded my skill set.
+My background, including experience in public tenders at a construction company and as a Project Coordinator/Purchasing Manager in a start-up, has shaped me into a <b>methodical, organized, responsible, and versatile</b> individual. Meetings with suppliers, market research, preparation of essential documents, and managing Mailchimp communications to clients are just a few of the responsibilities that have expanded my skill set.
 
 I am always excited about personal and professional growth and learning.
